@@ -1,17 +1,23 @@
-Game name: Star Wars Space Invader simulator 
+# Star Wars Space Invader Simulator
 
-DESCRIPTION:
+A classic arcade-style space shooter built with Python and Pygame. You pilot the Millennium Falcon at the bottom of the screen and defend against waves of incoming Imperial spaceships. 
 
-A classic arcade-style space shooter game built using Python and the Pygame library. The player controls a spaceship to defend against waves of incoming enemies. In this game, you pilot the Millenium Falcon at the bottom of the screen. Your objective is to shoot down moving imperial spaceships to earn points. The game tracks your score and features sound effects, background music, and a "Game Over" state if an enemy collides with your ship.
+The game tracks your score and includes basic sound effects and background music. The game ends if an enemy collides with your ship.
 
-CONTROLS:
+## Controls
 
-Left Arrow Key: Move spaceship left
+* **Left Arrow Key:** Move left
+* **Right Arrow Key:** Move right
+* **Spacebar:** Fire
 
-Right Arrow Key: Move spaceship right
+## How to Run
 
-Spacebar: Fire bullet
+1. Clone this repository:
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
 
-REQ:
+2. Install the required Pygame library:
+pip install pygame
 
-To run this game, you need to have Python installed along with the pygame library.
+3. Start the game
+python main.py
