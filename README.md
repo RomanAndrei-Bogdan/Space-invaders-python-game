@@ -12,12 +12,12 @@ The game tracks your score and includes basic sound effects and background music
 
 ## How to Run
 
-1. Clone this repository:
+### 1. Clone this repository:
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 
-2. Install the required Pygame library:
+### 2. Install the required Pygame library:
 pip install pygame
 
-3. Start the game
+### 3. Start the game
 python main.py
